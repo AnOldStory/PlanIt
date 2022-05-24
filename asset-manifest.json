@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1dde075.css",
+    "main.js": "/static/js/main.dd8c9acd.js",
+    "static/js/787.a1ebd63b.chunk.js": "/static/js/787.a1ebd63b.chunk.js",
+    "static/media/원본.png": "/static/media/원본.709569235a5fcb9946e2.png",
+    "static/media/bus.png": "/static/media/bus.6ccd6a03cf6a30bf1f79.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.e1dde075.css.map": "/static/css/main.e1dde075.css.map",
+    "main.dd8c9acd.js.map": "/static/js/main.dd8c9acd.js.map",
+    "787.a1ebd63b.chunk.js.map": "/static/js/787.a1ebd63b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1dde075.css",
+    "static/js/main.dd8c9acd.js"
+  ]
+}
