@@ -74,7 +74,7 @@ const Team = () => {
           <ul class="bg-slate-50 p-4 sm:px-8 sm:pt-6 sm:pb-8 lg:p-4 xl:px-8 xl:pt-6 xl:pb-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-4 text-sm leading-6">
             {info.map((item, index) => (
               <a
-                href="#"
+                href="#!"
                 class="hover:bg-blue-500 hover:ring-blue-500 hover:shadow-md group rounded-md p-3 bg-white ring-1 ring-slate-200 shadow-sm"
                 onClick={() => setLoading(1)}
               >
@@ -109,7 +109,7 @@ const Team = () => {
             {/* end block  */}
             <li class="flex">
               <a
-                href="#"
+                href="#!"
                 class="hover:border-blue-500 hover:border-solid hover:bg-white hover:text-blue-500 group w-full flex flex-col items-center justify-center rounded-md border-2 border-dashed border-slate-300 text-sm leading-6 text-slate-900 font-medium py-3"
               >
                 <svg
@@ -227,10 +227,7 @@ const Team = () => {
 
                   <div class="flex flex-col px-6">
                     <div class="flex h-8 flex-row">
-                      <a
-                        href="https://github.com/EgoistDeveloper/"
-                        target="_blank"
-                      >
+                      <a href="https://github.com/EgoistDeveloper/">
                         <h2 class="text-lg font-semibold">Kang Taeho</h2>
                       </a>
 
@@ -284,7 +281,7 @@ const Team = () => {
 
                     <div class="mt-2 flex flex-row items-center space-x-5">
                       <a
-                        href="#"
+                        href="#!"
                         class="flex h-20 w-40 flex-col items-center justify-center rounded-md border border-dashed border-gray-200 transition-colors duration-100 ease-in-out hover:border-gray-400/80"
                       >
                         <div class="flex flex-row items-center justify-center">
@@ -306,7 +303,7 @@ const Team = () => {
                       </a>
 
                       <a
-                        href="#"
+                        href="#!"
                         class="flex h-20 w-40 flex-col items-center justify-center rounded-md border border-dashed border-gray-200 transition-colors duration-100 ease-in-out hover:border-gray-400/80"
                       >
                         <div class="flex flex-row items-center justify-center">
@@ -348,10 +345,7 @@ const Team = () => {
 
                     <div class="flex flex-col px-6">
                       <div class="flex h-8 flex-row">
-                        <a
-                          href="https://github.com/EgoistDeveloper/"
-                          target="_blank"
-                        >
+                        <a href="https://github.com/EgoistDeveloper/">
                           <h2 class="text-lg font-semibold">HyeongChang Lee</h2>
                         </a>
 
@@ -405,7 +399,7 @@ const Team = () => {
 
                       <div class="mt-2 flex flex-row items-center space-x-5">
                         <a
-                          href="#"
+                          href="#!"
                           class="flex h-20 w-40 flex-col items-center justify-center rounded-md border border-dashed border-gray-200 transition-colors duration-100 ease-in-out hover:border-gray-400/80"
                         >
                           <div class="flex flex-row items-center justify-center">
@@ -427,7 +421,7 @@ const Team = () => {
                         </a>
 
                         <a
-                          href="#"
+                          href="#!"
                           class="flex h-20 w-40 flex-col items-center justify-center rounded-md border border-dashed border-gray-200 transition-colors duration-100 ease-in-out hover:border-gray-400/80"
                         >
                           <div class="flex flex-row items-center justify-center">
