@@ -28,7 +28,7 @@ function App() {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    initialSlide: 2,
+    initialSlide: 1,
   };
   if (loading[0] === 1) {
     setTimeout(function () {
