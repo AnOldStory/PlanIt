@@ -4,6 +4,7 @@ import Slider from "react-slick";
 
 import Profile from "./profile";
 import Movie from "./Movie/Movie";
+import Team from "./team/team";
 import InsertInfo from "./insertInfo/InsertInfo";
 import Loading from "./component/Loading";
 import Alert from "./component/alert";
@@ -95,6 +96,7 @@ function App() {
                 : []
             }
           />
+          <Team />
         </Slider>
       )}
     </div>
