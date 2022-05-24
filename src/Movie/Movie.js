@@ -7,8 +7,9 @@ export default function Movies({ movies }) {
   return (
     <div className="divide-y divide-slate-100">
       <Nav>
-        <NavItem href="/new" isActive>New Releases</NavItem>
-        <NavItem href="/top">Top Rated</NavItem>
+
+        <NavItem href="/top" isActive>Top Rated</NavItem>
+        <NavItem href="/new" >New Releases</NavItem>
         {/* <NavItem href="/picks">Vincent’s Picks</NavItem> */}
       </Nav>
       <List>

@@ -1,9 +1,7 @@
-import lmg from "./원본.png";
-
 export default function ListItem({ movie }) {
   return (
     <article className="flex items-start space-x-6 p-6">
-      <img src={lmg} alt="" width="60" height="88" className="flex-none rounded-md bg-slate-100" />
+      <img src={movie.img} alt="" width="60" height="88" className="flex-none rounded-md bg-slate-100" />
       <div className="min-w-0 relative flex-auto">
         <h2 className="font-semibold text-slate-900 truncate pr-20">{movie.title}</h2>
         <dl className="mt-2 flex flex-wrap text-sm leading-6 font-medium">
